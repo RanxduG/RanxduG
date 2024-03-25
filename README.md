@@ -1,5 +1,6 @@
-Hi there 👋
-I'm Ranidu Hansaka Gurusinghe, currently an undergraduate student at the Informatics Institute of Technology, pursuing a degree in Artificial Intelligence and Data Science affiliated with Robert Gordon University, UK.
+###Hi there 👋
+
+##I'm Ranidu Hansaka Gurusinghe, currently an undergraduate student at the Informatics Institute of Technology, pursuing a degree in Artificial Intelligence and Data Science affiliated with Robert Gordon University, UK.
 
 🔭 Currently, I'm diving deep into the realm of Data Science.
 
