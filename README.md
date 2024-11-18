@@ -40,8 +40,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranidu-hansaka-gurusinghe&show_icons=true&locale=en&layout=compact" alt="Ranidu Hansaka Gurusinghe" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RanxduG&show_icons=true&locale=en&layout=compact" alt="Ranidu Hansaka Gurusinghe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranidu-hansaka-gurusinghe&show_icons=true&locale=en" alt="Ranidu Hansaka Gurusinghe" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RanxduG&show_icons=true&locale=en" alt="Ranidu Hansaka Gurusinghe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranidu-hansaka-gurusinghe&" alt="Ranidu Hansaka Gurusinghe" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RanxduG&" alt="Ranidu Hansaka Gurusinghe" /></p>
